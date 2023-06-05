@@ -1,3 +1,4 @@
+// Package myPackage provides functionality for ...
 package myPackage
 
 import "fmt"
